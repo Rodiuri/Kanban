@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Kanban Iuri</string>
+    <string name="student_name">Iuri Rodrigues</string>
+    <string name="splash_tagline">Ideias em movimento</string>
+    <string name="login_title">Bem-vindo de volta</string>
+    <string name="login_subtitle">Organize cada passo do seu projeto.</string>
+    <string name="email">E-mail</string>
+    <string name="email_hint">Digite seu e-mail</string>
+    <string name="password">Senha</string>
+    <string name="password_hint">Digite sua senha</string>
+    <string name="login">Entrar</string>
+    <string name="create_account">Criar conta</string>
+    <string name="recover_account">Recuperar conta</string>
+    <string name="send">Enviar</string>
+    <string name="recover_message">Informe seu e-mail de cadastro para receber\num link para alteração de senha.</string>
+    <string name="home_greeting">Meu Kanban</string>
+    <string name="home_owner">Painel de Iuri Rodrigues</string>
+    <string name="status_task_todo">A Fazer</string>
+    <string name="status_task_doing">Fazendo</string>
+    <string name="status_task_done">Feitas</string>
+    <string name="logout">Sair da conta</string>
+    <string name="back">Voltar</string>
+    <string name="tabs_description">Abas do Kanban</string>
+</resources>
